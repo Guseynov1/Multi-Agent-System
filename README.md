@@ -1,4 +1,6 @@
 # Multi-Agent-System
+# Special eLinked.
+An updated sheet containing arrays of five elements under the hood and having links to each other
 # lab1.
 Specific calculator
 # lab2.
